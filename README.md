@@ -14,4 +14,3 @@ Improvement- Create a multi-digit classifier as opposed to single-digit classifi
 - Use image pyramid technique to make the detection model size invariant.
 - Use the CNN classifier to predict the label and associated probability of the digits.
 - Utilize non-maximum suppression to ignore overlapping and duplicate bounding boxes.
-
